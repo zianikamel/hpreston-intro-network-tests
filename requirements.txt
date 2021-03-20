@@ -29,7 +29,7 @@ genie.telemetry==20.2
 genie.trafficgen==20.2
 idna==2.9
 IxNetwork==9.0.1915.16
-Jinja2==2.11.1
+Jinja2==2.11.3
 jinja2-time==0.2.0
 jsonpickle==1.3
 junit-xml==1.9
